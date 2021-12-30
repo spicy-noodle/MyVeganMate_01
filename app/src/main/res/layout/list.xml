@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List"
+            android:textSize="30dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="48dp"/>
+
+        <SearchView
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="16dp"
+            android:layoutDirection="rtl"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="312dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp">
+
+
+        <TextView
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/ListCategory"
+            android:textSize="18dp"
+            android:gravity="center_horizontal"
+            android:text="음식"
+            android:layout_marginTop="20dp"/>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="42dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:id="@+id/recyclerView">
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtResult"
+        android:layout_gravity="center" />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:text="상품추가하기"
+        android:layout_gravity="center"
+        android:id="@+id/addBtn"
+        android:layout_marginTop="18dp"
+        android:onClick="mOnPopupClick"
+        />
+    
+
+
+
+    </LinearLayout>
+
+
+
+
