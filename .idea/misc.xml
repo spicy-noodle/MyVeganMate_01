@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/drawable/non_vegan_icon.xml" value="0.2740740740740741" />
+        <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/drawable/popup_background.xml" value="0.36102564102564105" />
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/drawable/textbox.xml" value="0.2740740740740741" />
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/drawable/vegan.xml" value="0.31851851851851853" />
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/drawable/vegan_icon.xml" value="0.2740740740740741" />
@@ -13,7 +14,7 @@
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/layout/dictionary.xml" value="0.24864130434782608" />
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/layout/item_list.xml" value="0.5" />
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/layout/list.xml" value="0.25" />
-        <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/layout/popup.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/layout/popup.xml" value="0.33" />
         <entry key="..\:/Users/pcUser96/AndroidStudioProjects/MyVeganMate_01/app/src/main/res/layout/subactivity_main.xml" value="0.19427083333333334" />
       </map>
     </option>
